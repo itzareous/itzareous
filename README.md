@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Areous 👋</h1>
+ <h1 align="center">Hey, I'm Areous 👋</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3500&pause=800&color=14B8A6&center=true&vCenter=true&width=600&height=50&lines=Product+Designer;Design+Engineer+in+the+making;Founder,+Community+Builder;Building+for+the+African+market" alt="What I do" />
@@ -55,8 +55,8 @@ What I care about most is the seam where **design meets engineering**, and givin
 ### GitHub in numbers
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itzareous&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzareous&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9" alt="top languages" />
+  <img height="165" src="https://itzareous.vercel.app/api?username=itzareous&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9" alt="stats" />
+  <img height="165" src="https://itzareous.vercel.app/api/top-langs/?username=itzareous&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9" alt="top languages" />
 </div>
 
 ---
