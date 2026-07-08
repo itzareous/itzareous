@@ -52,14 +52,6 @@ What I care about most is the seam where **design meets engineering**, and givin
 
 ---
 
-### GitHub in numbers
-
-<div align="center">
-  <img height="165" src="https://itzareous.vercel.app/api?username=itzareous&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9" alt="stats" />
-  <img height="165" src="https://itzareous.vercel.app/api/top-langs/?username=itzareous&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9" alt="top languages" />
-</div>
-
----
 
 ### Find me around the web
 
